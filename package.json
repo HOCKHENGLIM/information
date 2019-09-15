@@ -1,0 +1,16 @@
+{
+  "name": "HOCK HENG LIM Verification Bot",
+  "version": "0.0.1",
+  "description": "Captcha Verification Bot",
+  "main": "client.js",
+  "scripts": {
+    "test": "node client.js"
+  },
+  "author": "HOCK HENG LIM / w8o88rcc2uft2#0001",
+  "license": "HOCK HENG LIM Company",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "jimp": "^0.6.8",
+    "node-fetch": "^2.3.0"
+  }
+}
