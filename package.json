@@ -1,6 +1,6 @@
 {
   "name": "HOCK HENG LIM Verification Bot",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "description": "Captcha Verification Bot",
   "main": "client.js",
   "scripts": {
